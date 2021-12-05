@@ -1,2 +1,1 @@
-# qpcr
-# scripts applied to qPCR data analysis
+Scripts applied to qPCR data analysis
